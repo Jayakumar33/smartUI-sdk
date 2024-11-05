@@ -52,7 +52,7 @@ public class SmartUISDKCloud {
         SmartUISnapshot.smartuiSnapshot(driver, "visual-regression-testing-1");
         Thread.sleep(1000);
 
-        driver.get("https://www.lambdatest.com/pricing");
+        driver.get("https://www.lambdatest.com");
         Thread.sleep(5000);
         SmartUISnapshot.smartuiSnapshot(driver, "Pricing-2");
         Thread.sleep(1000);
