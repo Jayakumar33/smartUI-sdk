@@ -62,10 +62,10 @@ public class SmartUISDKCloud {
         SmartUISnapshot.smartuiSnapshot(driver, "blog-3");
         Thread.sleep(1000);
 
-        driver.get("https://www.lambdatest.com/blog/");
-        Thread.sleep(1000);
-        SmartUISnapshot.smartuiSnapshot(driver, "blog-4");
-        Thread.sleep(1000);
+//        driver.get("https://www.lambdatest.com/blog/");
+//        Thread.sleep(1000);
+//        SmartUISnapshot.smartuiSnapshot(driver, "blog-4");
+//        Thread.sleep(1000);
         System.out.println("Test Finished");
     }
 

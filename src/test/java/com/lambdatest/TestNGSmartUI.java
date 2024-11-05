@@ -58,21 +58,21 @@ public class TestNGSmartUI {
     System.out.println("Loading URL");
 
     driver.get("https://www.lambdatest.com/");
-    Thread.sleep(5000);
+//    Thread.sleep(5000);
 
     System.out.println("Taking FullPage Screenshot");
     driver.executeScript("smartui.takeFullPageScreenshot=home-page");
     Thread.sleep(1000);
 
     driver.get("https://www.lambdatest.com/pricing");
-    Thread.sleep(5000);
+//    Thread.sleep(5000);
 
     System.out.println("Taking Pricing Page Screenshot");
     driver.executeScript("smartui.takeScreenshot=pricing-page");
     Thread.sleep(1000);
 
     driver.get("https://www.lambdatest.com/support/docs/");
-    Thread.sleep(5000);
+//    Thread.sleep(5000);
 
     System.out.println("Taking Docs Page Screenshot");
     driver.executeScript("smartui.takeScreenshot=docs");
