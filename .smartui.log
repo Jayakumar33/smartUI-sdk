@@ -98,3 +98,46 @@ LambdaTest SmartUI CLI v3.0.12
 LambdaTest SmartUI CLI v3.0.12
 [90mA new version 4.0.7 is available![39m
 [90m[39m
+
+LambdaTest SmartUI CLI v3.0.12
+[90mA new version 4.0.7 is available![39m
+[90m[39m
+
+LambdaTest SmartUI CLI v3.0.12
+[90mA new version 4.0.7 is available![39m
+[90m[39m
+
+LambdaTest SmartUI CLI v3.0.12
+[smartui-cli:debug] [34mhttp request: GET /packageinfo[39m
+[smartui-cli:debug] [34mhttp response: {"status":200,"headers":{"date":"Tue, 05 Nov 2024 14:47:01 GMT","content-type":"application/json","transfer-encoding":"chunked","connection":"keep-alive","access-control-allow-methods":"GET, POST, PUT, OPTIONS,PATCH","access-control-allow-headers":"Pragma,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,Authorization,username,traceparent,tracestate","access-control-expose-headers":"Pragma,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range","cf-cache-status":"DYNAMIC","server":"cloudflare","cf-ray":"8ddda2f9beb6c1c2-BLR"},"body":{"data":{"latestVersion":"4.0.7","deprecated":false,"additionalDescription":"","additionalDescriptionLatestVersion":"If you face any problems executing tests, upgrade your node version to v20.3 or above"}}}[39m
+[90mA new version 4.0.7 is available![39m
+[90m[39m
+[auth:debug] [34mhttp request: GET /token/verify[39m
+[auth:debug] [34mhttp response: {"status":500,"headers":{"date":"Tue, 05 Nov 2024 14:47:14 GMT","content-type":"application/json","content-length":"211","connection":"keep-alive","cf-cache-status":"DYNAMIC","server":"cloudflare","cf-ray":"8ddda2fd0a7ec1c2-BLR"},"body":{"status":"Failure","message":"Failed to fetch project data for projectToken: 550422#66c15ad1-0576-41f7-abc8-e367c77e4b59#Niveous_3_cli due to read tcp 10.160.43.54:56060->172.20.92.224:6379: i/o timeout"}}[39m
+[auth:debug] [34mFailed to fetch project data for projectToken: 550422#66c15ad1-0576-41f7-abc8-e367c77e4b59#Niveous_3_cli due to read tcp 10.160.43.54:56060->172.20.92.224:6379: i/o timeout[39m
+
+Refer docs: https://www.lambdatest.com/support/docs/smart-visual-regression-testing/
+[auth:debug] [34mClosed browser[39m
+[auth:debug] [34mClosed server[39m
+
+LambdaTest SmartUI CLI v3.0.12
+[90mA new version 4.0.11 is available![39m
+[90m[39m
+
+LambdaTest SmartUI CLI v3.0.12
+[90mA new version 4.0.11 is available![39m
+[90m[39m
+
+LambdaTest SmartUI CLI v3.0.12
+[90mA new version 4.0.11 is available![39m
+[90m[39m
+
+LambdaTest SmartUI CLI v3.0.12
+[90mA new version 4.0.11 is available![39m
+[90m[39m
+
+Refer docs: https://www.lambdatest.com/support/docs/smart-visual-regression-testing/
+
+LambdaTest SmartUI CLI v3.0.12
+[90mA new version 4.0.11 is available![39m
+[90m[39m
